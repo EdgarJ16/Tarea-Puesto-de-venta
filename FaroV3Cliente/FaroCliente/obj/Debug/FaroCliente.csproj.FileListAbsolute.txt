@@ -1,0 +1,30 @@
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.FrmInicio.resources
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.Properties.Resources.resources
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroServidor.FrmCliente.resources
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\bin\Debug\FaroCliente.exe.config
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\bin\Debug\FaroCliente.exe
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\bin\Debug\FaroCliente.pdb
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.exe
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.pdb
+C:\Users\edgar\source\repos\FaroV3\FaroCliente\obj\Debug\FaroCliente.FrmVenta.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.csproj.AssemblyReference.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroServidor.FrmCliente.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.FrmInicio.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.FrmVenta.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.Properties.Resources.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.csproj.GenerateResource.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.exe
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\FaroCliente.exe.config
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\FaroCliente.exe
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\FaroCliente.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.FrmConsultaVentas.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\Newtonsoft.Json.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\bin\Debug\Newtonsoft.Json.xml
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\FaroCliente\obj\Debug\FaroCliente.csproj.CopyComplete

@@ -1,0 +1,18 @@
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\bin\Debug\Faro.Datos.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\bin\Debug\Faro.Datos.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\obj\Debug\Faro.Datos.csproj.AssemblyReference.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\obj\Debug\Faro.Datos.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\obj\Debug\Faro.Datos.csproj.CopyComplete
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\obj\Debug\Faro.Datos.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Datos\obj\Debug\Faro.Datos.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\bin\Debug\Faro.Datos.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\bin\Debug\Faro.Datos.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\obj\Debug\Faro.Datos.csproj.AssemblyReference.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\obj\Debug\Faro.Datos.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\obj\Debug\Faro.Datos.csproj.CopyComplete
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\obj\Debug\Faro.Datos.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\Faro.Datos\obj\Debug\Faro.Datos.pdb

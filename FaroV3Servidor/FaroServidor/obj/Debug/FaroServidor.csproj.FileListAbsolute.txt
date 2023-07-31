@@ -1,0 +1,38 @@
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\bin\Debug\FaroServidor.exe.config
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\bin\Debug\FaroServidor.exe
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\bin\Debug\FaroServidor.pdb
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmServidor.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.Properties.Resources.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.exe
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.pdb
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmRegistraArt.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmRegistraEmp.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmConVentas.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmConInv.resources
+C:\Users\edgar\source\repos\FaroV3\FaroServidor\obj\Debug\FaroServidor.FrmActualizaArt.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\FaroServidor.exe.config
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\FaroServidor.exe
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\FaroServidor.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.csproj.AssemblyReference.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmServidor.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmRegistraArt.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmRegistraEmp.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmConVentas.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmConInv.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.FrmActualizaArt.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.Properties.Resources.resources
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.csproj.GenerateResource.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.exe
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Faro.Datos.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Newtonsoft.Json.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Faro.Datos.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\bin\Debug\Newtonsoft.Json.xml
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.csproj.CopyComplete
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Servidor\FaroServidor\obj\Debug\FaroServidor.Conexion.resources

@@ -1,0 +1,14 @@
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Entidades\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Entidades\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Entidades\obj\Debug\Faro.Entidades.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Entidades\obj\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Entrega_2_Faro_EdgarJacobMoreno\Tarea-2Faro\Faro.Entidades\obj\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\bin\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\bin\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\obj\Debug\Faro.Entidades.csproj.AssemblyReference.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\obj\Debug\Faro.Entidades.csproj.CoreCompileInputs.cache
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\obj\Debug\Faro.Entidades.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\obj\Debug\Faro.Entidades.pdb
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\bin\Debug\Newtonsoft.Json.dll
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\bin\Debug\Newtonsoft.Json.xml
+D:\UNED\VI cuatrimestre\Programacion avanzada\Entregas\Tarea 3\Tarea_3_EdgarJacobMoreno_PA\FaroV3Cliente\Faro.Entidades\obj\Debug\Faro.Entidades.csproj.CopyComplete

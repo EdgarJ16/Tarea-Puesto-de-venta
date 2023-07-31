@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E40D935-699A-4A20-A3CD-2FB3CEF24F4F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FaroServidor</RootNamespace>
+    <AssemblyName>FaroServidor</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>faro_MZ5_icon %281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conexion.Designer.cs">
+      <DependentUpon>Conexion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmServidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmServidor.Designer.cs">
+      <DependentUpon>FrmServidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistraArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistraArt.Designer.cs">
+      <DependentUpon>FrmRegistraArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistraEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistraEmp.Designer.cs">
+      <DependentUpon>FrmRegistraEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConVentas.Designer.cs">
+      <DependentUpon>FrmConVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConInv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConInv.Designer.cs">
+      <DependentUpon>FrmConInv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmActualizaArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActualizaArt.Designer.cs">
+      <DependentUpon>FrmActualizaArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TCP\Mapa.cs" />
+    <Compile Include="TCP\MensajeSocket.cs" />
+    <Compile Include="TCP\Paquetes.cs" />
+    <EmbeddedResource Include="Conexion.resx">
+      <DependentUpon>Conexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmServidor.resx">
+      <DependentUpon>FrmServidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistraArt.resx">
+      <DependentUpon>FrmRegistraArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistraEmp.resx">
+      <DependentUpon>FrmRegistraEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConVentas.resx">
+      <DependentUpon>FrmConVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConInv.resx">
+      <DependentUpon>FrmConInv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmActualizaArt.resx">
+      <DependentUpon>FrmActualizaArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Faro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shoping cart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Faro.Datos\Faro.Datos.csproj">
+      <Project>{68765F1C-6B22-4ACF-8A83-E90BC4A0977A}</Project>
+      <Name>Faro.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Faro.Entidades\Faro.Entidades.csproj">
+      <Project>{6BCAE09B-598B-44A6-8EE6-3C7A8DA9D788}</Project>
+      <Name>Faro.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\faro_MZ5_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="faro_MZ5_icon %281%29.ico" />
+    <Content Include="faro_MZ5_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
